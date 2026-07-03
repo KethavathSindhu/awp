@@ -1,6 +1,7 @@
 .x{
-    /*background-color: rgb(29, 108, 117);*/
+    background-color: rgb(178, 233, 75);
     color: rgb(44, 105, 167);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
+    font-variant: small-caps;
 }
